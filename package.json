@@ -1,0 +1,15 @@
+{
+  "name": "wxx",
+  "version": "1.0.3",
+  "description": "微信js-sdk辅助开发工具，开发过程也能使用真机调试",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daibin Li",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "qs": "^6.5.2"
+  }
+}
